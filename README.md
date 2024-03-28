@@ -119,30 +119,19 @@ O modelo de desenvolvimento será inspirado no modelo ágil e o framework scrum.
 
 
 <p >
-<a href="https://www.atlassian.com/br/agile/project-management/user-stories">🔗 </a>
- </p>
-
-
-
-<p >
-<a href="file:///home/anapedra/Downloads/patriciafreire,+1.ArtigoMadalena.pdf">🔗 IJKEM</a>
- </p>
-
-     
-<p >
-<a href="https://fullcycle.com.br/certificado/3234a08f-4a17-4ccb-a9d9-7787b9e0edda">🔗</a>
+<a href="https://www.atlassian.com/br/agile/project-management/user-stories">🔗 ATLASSIAN</a>
  </p>
 
  <h3></h3>
 <p >
-<a href="https://fullcycle.com.br/certificado/9a54650d-8619-4f76-85a9-278ad24846b4">🔗</a>
+<a href="https://programadetestesequalidade.club.hotmart.com/public/user-certificate/894faa62-84da-4540-a6b9-70203909ddaf/_">🔗 Jl/Tests&Qualidade</a>
  </p>
-
+ 
  <h3></h3>
 <p >
 <a href="https://learn.devsuperior.com/certificados/7165816">🔗</a>
  </p>
-ade.club.hotmart.com/public/user-certificate/894faa62-84da-4540-a6b9-70203909ddaf/_">🔗 Jl/Tests&Qualidade</a>
+
  </p>
  
 <p >
