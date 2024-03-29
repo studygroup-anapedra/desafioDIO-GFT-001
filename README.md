@@ -55,7 +55,7 @@ Saiba mais sobre análise(fictícia) do negócio que norteará os demais artefat
 </P>
 
 
- <p>Tests</P>
+ <p></P>
  <p></P>
 
  <h2>Modelo desenvolvimento</h2>
@@ -139,7 +139,7 @@ O modelo de desenvolvimento será inspirado no modelo ágil e o framework scrum.
  </p>
 
 <p >
-<a href="https://devsuperior.club/c/5-61">🔗 Java SpringExpert - em andamento</a>
+<a href="https://devsuperior.club/c/5-61">🔗 Java SpringExpert -</a>
  </p>
 
 
