@@ -129,7 +129,7 @@ O modelo de desenvolvimento será inspirado no modelo ágil e o framework scrum.
  
  <h3></h3>
 <p >
-<a href="https://learn.devsuperior.com/certificados/7165816">🔗</a>
+<a href="https://learn.devsuperior.com/certificados/7165816">🔗 Java SpringProfessional</a>
  </p>
 
  </p>
@@ -139,7 +139,7 @@ O modelo de desenvolvimento será inspirado no modelo ágil e o framework scrum.
  </p>
 
 <p >
-<a href="https://devsuperior.club/c/5-61">🔗 Java Spring Expert </a>
+<a href="https://devsuperior.club/c/5-61">🔗 Java SpringExpert - em andamento</a>
  </p>
 
 
